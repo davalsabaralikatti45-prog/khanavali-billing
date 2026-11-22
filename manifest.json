@@ -1,0 +1,33 @@
+{
+ "name": "Mahebub Khanavali Billing",
+ "short_name": "Khanavali",
+ "id": "/",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "hi-IN",
+ "background_color": "#fff7ea",
+ "theme_color": "#c94f08",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ],
+ "description": "Mahebub Khanavali ka billing app: table-wise bill, UPI payment aur WhatsApp par bill bhejna.",
+ "categories": [
+  "business",
+  "finance",
+  "food"
+ ],
+ "dir": "ltr"
+}
